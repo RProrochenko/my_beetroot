@@ -1,3 +1,3 @@
 <?php
 
-echo date('H:i:s Y l jS \of F    ');
+echo date('H:i:s d-m-Y') . PHP_EOL;
