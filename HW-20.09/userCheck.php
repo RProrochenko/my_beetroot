@@ -1,7 +1,7 @@
 <?php
 
-$getUsername = 'username';
-$getPassword = 'password';
+$getUsername = $_POST['username'];
+$getPassword = $_POST['password'];
 
 $authentication = fopen('authentication', 'r');
 $userCredentials = [];
