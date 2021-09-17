@@ -20,7 +20,7 @@ while(!feof($file)) {
         echo $getUsername;
         break;
 
-    } elseif ($checkUsername && !$checkPassword ){
+    } elseif (!$checkUsername || !$checkPassword ){
 
         echo 'Не вірний пароль, спробуйте ще!';
         fwrite($logger, date('H:i:s d-m-Y ') . $getUsername .' entered the wrong password!' . PHP_EOL);
