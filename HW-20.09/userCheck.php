@@ -1,7 +1,7 @@
 <?php
 
-$getUsername = $_POST['username'];
-$getPassword = $_POST['password'];
+$getUsername = 'username';
+$getPassword = 'password';
 
 $authentication = fopen('authentication', 'r');
 $userCredentials = [];
@@ -10,10 +10,10 @@ while(!feof($authentication)) {
 
     $authParam = explode(' ', trim(fgets($authentication)));
 
-    if ($authParam[0] !== '') {
-        $userCredentials[$authParam[0]] = $authParam[1];
+    if ($authParam[0] === '') {
+        break;
     }
-
+    $userCredentials[$authParam[0]] = $authParam[1];
 }
 fclose($authentication);
 
