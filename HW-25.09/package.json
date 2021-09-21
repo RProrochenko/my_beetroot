@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lou",
+    "login": "King",
+    "password": "asdf",
+    "email": "louking@waterbaby.com",
+    "leanguage": "SP"
+  },
+  {
+    "name": "England",
+    "login": "Owens",
+    "password": "bdfg",
+    "email": "englandowens@waterbaby.com",
+    "leanguage": "RU"
+  },
+  {
+    "name": "Atkinson",
+    "login": "Meyer",
+    "password": "F5b5B3xjZ",
+    "email": "atkinsonmeyer@waterbaby.com",
+    "leanguage": "SP"
+  },
+  {
+    "name": "Lesa",
+    "login": "Watkins",
+    "password": "vxD784iaKcUM87",
+    "email": "lesawatkins@waterbaby.com",
+    "leanguage": "UA"
+  },
+  {
+    "name": "Pruitt",
+    "login": "Davenport",
+    "password": "K44pesJAYFb96u2g5Mr7",
+    "email": "pruittdavenport@waterbaby.com",
+    "leanguage": "UA"
+  },
+  {
+    "name": "Stefanie",
+    "login": "ZV2c48h",
+    "password": "asdfa32",
+    "email": "stefanieramirez@waterbaby.com",
+    "leanguage": "RU"
+  },
+  {
+    "name": "Workman",
+    "login": "Kirby",
+    "password": "72Cb5aU",
+    "email": "workmankirby@waterbaby.com",
+    "leanguage": "ENG"
+  },
+  {
+    "name": "Sheila",
+    "login": "Malone",
+    "password": "n92rF",
+    "email": "sheilamalone@waterbaby.com",
+    "leanguage": "PL"
+  },
+  {
+    "name": "Gray",
+    "login": "Ray",
+    "password": "8iDfcmZY948C",
+    "email": "grayray@waterbaby.com",
+    "leanguage": "ENG"
+  },
+  {
+    "name": "Roach",
+    "login": "Deleon",
+    "password": "z2SvL94tnA7",
+    "email": "roachdeleon@waterbaby.com",
+    "leanguage": "UA"
+  }
+]
