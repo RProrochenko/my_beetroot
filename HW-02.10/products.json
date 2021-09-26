@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Конфети",
+    "cost": "10",
+    "quantity": "50"
+  },
+  {
+    "name": "Печиво",
+    "cost": "12",
+    "quantity": "50"
+  },
+  {
+    "name": "Чай",
+    "cost": "65",
+    "quantity": "50"
+  },
+  {
+    "name": "Кофе",
+    "cost": "124",
+    "quantity": "50"
+  },
+  {
+    "name": "Шоколад",
+    "cost": "25",
+    "quantity": "50"
+  },
+  {
+    "name": "Торт",
+    "cost": "220",
+    "quantity": "50"
+  },
+  {
+    "name": "Пиріжки",
+    "cost": "15",
+    "quantity": "50"
+  }
+]
