@@ -1,0 +1,3 @@
+git rebase -i HEAD~n
+замінюємо на s або squash
+git rebase --continue
